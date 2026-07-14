@@ -15,3 +15,9 @@ The proposed system implements an end-to-end forecasting pipeline that begins wi
 A diverse set of models—including statistical methods, regression-based algorithms, and deep learning architectures—is evaluated per vehicle category. Model performance is assessed using accuracy metrics, after which a stacking ensemble approach is applied to combine the best-performing models.
 
 This pipeline leverages real-world company data and data-driven techniques to improve robustness, scalability, and forecasting accuracy under practical operational constraints.
+
+Author: Agita Ferstere
+
+Study Programme: Computer Sciences (45483)
+
+Supervisor: Dr. sc. ing. assoc. Professor Nadežda Spiridovska
